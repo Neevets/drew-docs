@@ -17,11 +17,11 @@ branding:
 
 links:
   - text: Premium
-    link: https://drewbot.xyz/premium
+    link: https://drewbot.xyz/premium.html
     icon: ruby
 
   - text: Support
-    link: https://drewbot.xyz/support
+    link: https://drewbot.xyz/support.html
     icon: comment-discussion
 
 footer:
