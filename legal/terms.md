@@ -452,7 +452,7 @@ If there is a conflict between these documents, the applicable document will con
 26. Contact
 For questions regarding these Terms or Drew:
 
-Stane
+**Stane**
 Stane website: https://stanelabs.com
 Drew website: https://drewbot.xyz
 Legal: legal@drewbot.xyz
