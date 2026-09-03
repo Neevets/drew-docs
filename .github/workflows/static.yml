@@ -3,7 +3,6 @@ name: Static
 on:
   push:
     branches: ["main"]
-
   workflow_dispatch:
 
 permissions:
@@ -35,7 +34,7 @@ jobs:
         run: npm install -g retypeapp
 
       - name: Build docs
-        run: retype build
+        run: retype build --verbose
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
