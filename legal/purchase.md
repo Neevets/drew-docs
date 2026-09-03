@@ -81,11 +81,21 @@ Stane or the payment provider may update prices from time to time. Changes to th
 
 Payment for Drew Licenses is processed through Lemon Squeezy or another payment provider made available by Stane.
 
+Accepted payment methods may include:
+
+- credit and debit cards (such as Visa, Mastercard, and other major card networks);
+- PayPal;
+- Klarna (where available);
+- Apple Pay and Google Pay (where available);
+- other payment methods made available through the payment provider from time to time.
+
 By purchasing a recurring Subscription, you authorize the payment provider to charge the payment method associated with your Subscription according to the selected billing interval.
 
 Recurring Subscriptions automatically renew at the end of each billing period until cancelled by you or by Stane in accordance with these Purchase Terms.
 
 If a payment fails (for example, due to an expired card, insufficient funds, or a bank decline), the payment provider or Stane may attempt to retry the payment. Repeated payment failures may result in suspension or termination of the License in accordance with the Terms of Service.
+
+The availability of specific payment methods may vary depending on your country or region and is subject to the payment provider's policies and limitations.
 
 ---
 
@@ -96,7 +106,7 @@ Stane may, at its sole discretion, offer a trial period of up to **five (5) days
 The Trial Period is subject to the following conditions:
 
 - The Trial Period is available only to new Users who have not previously purchased a Drew License or used a Trial Period.
-- To activate the Trial Period, the User must add a valid payment method, such as PayPal, debit card, or credit card.
+- To activate the Trial Period, the User must add a valid payment method, such as PayPal, a debit or credit card, Klarna, Apple Pay, or Google Pay, where available.
 - The Trial Period begins upon successful activation and lasts for up to five (5) consecutive days.
 - During the Trial Period, the User has access to premium features included in the applicable Plan **at no additional cost**.
 - The Trial Period is provided **free of charge** to allow new Users to evaluate Drew before committing to a paid Subscription.
@@ -264,6 +274,7 @@ If you are a consumer residing in the European Union or another jurisdiction tha
 
 For questions regarding these Purchase Terms, purchases, billing, or refunds:
 
+**Stane**  
 Stane website: [https://stanelabs.com](https://stanelabs.com)  
 Drew website: [https://drewbot.xyz](https://drewbot.xyz)  
 Legal: [legal@drewbot.xyz](mailto:legal@drewbot.xyz)  
