@@ -39,4 +39,4 @@ Follow the reading order below for the fastest production-ready setup.
 
 Built by **Stane**
 
-For policy details, review [legal/privacy.md](legal/privacy.md) and [legal/terms.md](legal/tos.md).
+For policy details, review [legal/privacy.md](legal/privacy.md) and [legal/tos.md](legal/tos.md).
