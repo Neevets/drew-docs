@@ -453,7 +453,6 @@ For Spain, the supervisory authority is the:
 
 For privacy and data protection matters:
 
-**Stane**  
 Stane website: [https://stanelabs.com](https://stanelabs.com)  
 Drew website: [https://drewbot.xyz](https://drewbot.xyz)  
 Legal: [legal@drewbot.xyz](mailto:legal@drewbot.xyz)  
