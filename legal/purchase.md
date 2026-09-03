@@ -264,7 +264,6 @@ If you are a consumer residing in the European Union or another jurisdiction tha
 
 For questions regarding these Purchase Terms, purchases, billing, or refunds:
 
-**Stane**
 Stane website: [https://stanelabs.com](https://stanelabs.com)  
 Drew website: [https://drewbot.xyz](https://drewbot.xyz)  
 Legal: [legal@drewbot.xyz](mailto:legal@drewbot.xyz)  
