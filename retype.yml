@@ -1,7 +1,7 @@
 input: .
 output: .retype/
 
-url: https://docs.neevets.website
+url: https://docs.drewbot.xyz
 
 start:
   pro: false
@@ -17,11 +17,11 @@ branding:
 
 links:
   - text: Premium
-    link: https://drewbot.site/premium
+    link: https://drewbot.xyz/premium
     icon: ruby
 
   - text: Support
-    link: https://drewbot.site/support
+    link: https://drewbot.xyz/support
     icon: comment-discussion
 
 footer:
