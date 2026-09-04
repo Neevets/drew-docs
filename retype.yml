@@ -16,19 +16,23 @@ branding:
   favicon: static/favicon.ico
 
 links:
+  - text: Website
+    link: https://drewbot.xyz
+    icon: link
+
   - text: Premium
     link: https://drewbot.xyz/premium.html
     icon: ruby
 
   - text: Support
-    link: https://drewbot.xyz/support.html
+    link: https://discord.gg/stane
     icon: comment-discussion
 
 footer:
   copyright: "© Copyright 2025 Drew. All rights reserved."
   links:
     - text: Privacy Policy
-      link: /legal/privacy.md
+      link: https://drewbot.xyz/privacy
 
     - text: Terms of Service
-      link: /legal/tos.md
+      link: https://drewbot.xyz/tos

@@ -1,43 +1,60 @@
 ---
 label: Installation
-icon: ai-model
+icon: mortar-board
 ---
 
 # Installation
 
-This section explains how to add Drew to a Discord server.
+This guide covers the initial installation of Drew and the checks required to confirm that it is ready for configuration.
 
-!!!primary Installation Goal
-Authorize Drew correctly and confirm it is operational in your server.
+:::info Installation Requirements
+You must have sufficient permissions to add applications to the target server. Drew requires the `Administrator` permission for its security and moderation features.
+:::
 
-## Step 1: Open the Invite URL
+## 1. Authorize Drew
 
-Open the official Drew invite link; [click here!](https://discord.com/oauth2/authorize?client_id=1441457111409103010&permissions=8&integration_type=0&scope=bot+applications.commands).
+Use the official Discord authorization flow:
 
-## Step 2: Select the Target Server
+[Add Drew to your server](https://discord.com/oauth2/authorize?client_id=1441457111409103010&permissions=8&integration_type=0&scope=bot+applications.commands)
 
-Choose the Discord server where you want Drew installed.
+## 2. Select the Server
 
-## Step 3: Approve Permissions
+Select the server where Drew should be installed.
 
-Ensure `Administrator` is enabled in the authorization screen, then approve access.
+You must have permission to manage the server and authorize applications.
 
-!!!danger Required Permission
-Drew requires `Administrator` permission to provide full OPSEC, anti-raid, and recovery coverage.
+## 3. Review Permissions
 
-## Step 4: Complete Discord Authorization
+Confirm that `Administrator` is selected in the authorization screen.
 
-Finish the Discord confirmation flow (including captcha if prompted).
+:::danger Required Permission
+Drew requires `Administrator` to operate its security, anti-raid, moderation, and Auto-Rollback functionality reliably.
+:::
 
-## Step 5: Verify Installation
+Do not remove required permissions after installation. Restricting Drew's effective permissions can prevent security actions from being executed correctly.
 
-!!!success Validation Passed
-Confirm the following in your server:
+## 4. Complete Authorization
 
-- Drew appears in the member list
-- The Drew role exists
-- Drew can read and send messages in your setup channel
+Approve the Discord authorization flow.
 
-Continue with [commands/sec/init.md](../commands/sec/init.md) for module setup.
+Discord may require additional verification, such as a CAPTCHA, before completing the installation.
 
-If verification fails, continue with [setup_guide/troubleshooting.md](../setup_guide/troubleshooting.md).
+Once authorization succeeds, return to your server.
+
+## 5. Verify the Installation
+
+Confirm that:
+
+- Drew appears in the server member list.
+- Drew's role has been created.
+- Drew's role is positioned appropriately in the server hierarchy.
+- Drew can access the channel where you intend to configure and test it.
+- Drew can send messages and read message history where required.
+
+:::success Installation Complete
+If all checks pass, Drew is installed successfully and ready for configuration.
+:::
+
+Continue with [Module Setup](../commands/sec/init.md) to configure Drew's security modules.
+
+If Drew is present but does not respond or cannot perform an action, see the [Troubleshooting Guide](../guides/troubleshooting.md).
